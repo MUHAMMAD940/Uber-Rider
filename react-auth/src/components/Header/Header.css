@@ -1,0 +1,11 @@
+.navbar .logo-part{
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.navbar .nav-link{
+    color: black;
+    font-size: 18px;
+    font-weight: 500;
+}
