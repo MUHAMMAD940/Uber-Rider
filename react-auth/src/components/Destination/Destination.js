@@ -42,7 +42,7 @@ const Destination = () => {
         <div className='container'>
             <hr />
             <div className='row'>
-                <div className='col'>
+                <div className='col-lg-6 col-12'>
                     <div className="from-control">
                     {!click ? (
                         <form>
@@ -120,7 +120,7 @@ const Destination = () => {
                     )}
                     </div>
                 </div>
-                <div className='col'>
+                <div className='col-lg-6 col-12'>
                     <img className='google-map' src={map} alt='Google Map' />
                 </div>
             </div>

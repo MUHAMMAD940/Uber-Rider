@@ -32,3 +32,17 @@
     color: tomato;
     margin-right: 10px;
 }
+
+@media(max-width: 575px){
+    .login-text {
+        border: 1px solid #dbd0d0;
+        margin-top: 50px;
+        padding: 10px;
+    }
+
+    .sing-in-btn{
+        padding: 8px 40px;
+    }
+
+
+}

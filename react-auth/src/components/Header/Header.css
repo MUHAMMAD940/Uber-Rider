@@ -9,3 +9,16 @@
     font-size: 18px;
     font-weight: 500;
 }
+
+@media(max-width: 575px){
+    .navbar .logo-part{
+        font-size: 25px;
+    }
+
+    .navbar .nav-link{
+        font-size: 14px;
+        padding: 0px;
+        margin: 0 8px !important;
+    }
+    
+}
