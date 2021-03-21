@@ -1,6 +1,4 @@
-import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import vehicles from '../../Data/Data.json';
 import './Vehicle.css';
 
 const Vehicles = (props) => {

@@ -1,4 +1,4 @@
-# This is Uber Riders projects.
+# This is Uber Riders Website.
 
 This project github link => https://github.com/Porgramming-Hero-web-course/react-auth-MUHAMMAD940/tree/master/react-auth
 

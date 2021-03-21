@@ -87,8 +87,8 @@ const Destination = () => {
                     ) : (
                         <div>
                             <div>
-                                <h3>From: {location.from}</h3>
-                                <h3>To: {location.to}</h3>
+                                <h3>Pick Up: {location.from}</h3>
+                                <h3>Destination: {location.to}</h3>
                                 <h4>Date: {location.date}</h4>
                             </div>
                             <div className='card mb-3'>

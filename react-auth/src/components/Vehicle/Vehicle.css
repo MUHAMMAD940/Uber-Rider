@@ -1,5 +1,11 @@
 .card{
     margin-top: 100px;
+    background: rgb(161, 248, 102) !important;
+}
+
+.card-title{
+    color: coral;
+    text-decoration: none;
 }
 
 @media(max-width:575px){
